@@ -1,0 +1,6 @@
+1,コマンドプロンプトから
+  desktopのrootファイルへ
+2,「python simpleserver.py」(開くpythonファイル名)と入力＆enter
+3,webブラウザで「http://localhost:8000/」
+4,Ctrl+Cでサーバーから抜ける？
+※localホストサーバーだゾ
